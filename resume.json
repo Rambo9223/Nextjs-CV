@@ -1,0 +1,176 @@
+{
+  "basics": {
+    "name": "Scott Ramsay",
+    "label": "Professional Musician/Trainee Developer",
+    "image": "https://scontent.fgla3-1.fna.fbcdn.net/v/t39.30808-6/225272397_476838460337052_1059684974837894304_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=VHGLYXxhBdUAX-OMsgj&_nc_ht=scontent.fgla3-1.fna&oh=00_AfArFoUY3RJx9M9lNegIgbqdLoi39dnQM7NfeRWiAAlTPg&oe=64330CA9",
+    "email": "sct_r_9223@live.co.uk",
+    "phone": "(+44) 77076 51565",
+    "url": "https://www.facebook.com/SRMusicman92",
+    "summary": "Over the last 15 years I have worked in the health, oil & gas, and music/entertaiment industry. I am currently studying a course in Web-Development.",
+    "location": {
+      "address": "44 Springfield Drive",
+      "postalCode": "IV30 6XZ",
+      "city": "Elgin",
+      "countryCode": "UK",
+      "region": "Morayshire"
+    },
+    "profiles": [
+      {
+        "network": "Facebook",
+        "username": "Scott Ramsay",
+        "url": "https://www.facebook.com/scott.ramsay.108"
+      },
+      {
+        "network": "Instagram",
+        "username": "scottramsaymusic",
+        "url": "https://www.instagram.com/scottramsaymusic/"
+      },
+      {
+        "network": "YouTube",
+        "username": "🎶 Scott Ramsay 🎶",
+        "url": "https://www.youtube.com/channel/UCp1oMKsRWgW_4mrxBVHU6fQ"
+      },
+      {
+        "network": "SoundCloud",
+        "username": "Scott Ramsay",
+        "url": "https://soundcloud.com/user-300219685"
+      },
+      {
+        "network":"GitHub",
+        "username":"Rambo9223",
+        "url":"https://github.com/Rambo9223"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "SRMusic",
+      "location": "Elgin, Scotland",
+      "description": "Self-Employed Musician",
+      "position": "Singer/Songwriter/Producer",
+      "url": "https://www.facebook.com/SRMusicman92",
+      "startDate": "2015-04-01",
+      "endDate": "Present",
+      "summary": "As a professional musician I work primarily as a solo artist and with larger band projects supplying entertainment for various local venues, events and festivals. As a musician my primary work is in performance with my main instruments being guitar, piano and vocals. During my time as a professional musician I have also gained experience in business management, marketing, mixing/mastering, music technology, production, recording and sound engineering. I am proficient in the use of various DAWs and mixing software's and through producing my own music releases I have increased my knowledge of how to produce music at a high quality. ",
+      "highlights": [
+        "Had my music played on local and national radio.","Played at many festivals",
+        "Won Scottish wedding band of the year in 2022 with my band Diamond Skies"
+      ]
+    },
+    {
+      "name": "Schlumberger",
+      "location": "Westhill, Scotland",
+      "description": "Oil & Gas Services",
+      "position": "Electronics Technician",
+      "url": "https://www.slb.com/",
+      "startDate": "2012-02-01",
+      "endDate": "2015-04-01",
+      "summary": "My role as an Electronics Technician in Schlumberger consists of maintenance and upgrade of electrical data acquisition equipment, control systems, PLC's, control instrumentation and subsystems of some land based, but primarily offshore cementing/fracturing equipment. I have also worked on coil tubing equipment. As part of my ET role I have attended two maintenance training courses in the US. In both courses I was placed in the top two. These courses provided me with knowledge of mechanical, pneumatic, hydraulic and electronic systems although my background is primarily electronic systems. I also attended a Electronic Engine School in Houston. In my time with Schlumberger I have been able to use my learning and develop good practical hands on skills with all types of equipment, whilst having an understanding of how equipment is used in an engineering environment. Primarily my job as a ET is based in the workshop although I regularly undertake unit maintenance and troubleshooting in offshore locations. Working in this type of environment has taught me to work effectively, under tight deadlines whilst delivering high quality work and abiding by QHSE standards.   ",
+      "highlights": [
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Moray Ice Hockey Club",
+      "position": "Coach",
+      "url": "https://www.morayjuniors.com/",
+      "startDate": "2009-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Coaching local junior Ice Hockey teams and overseeing player development.",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hyperion Dev",
+      "url": "https://www.hyperiondev.com/",
+      "area": "Information Technology",
+      "studyType": "Bootcamp",
+      "startDate": "2022-12-05",
+      "endDate": "2023-06-09",
+      "score": "91%",
+      "courses": [
+        "L01 - Web Development Essentials",
+        "L02 - Web Development with React and Express",
+        "L03 - Full Stack Web Developer"
+      ]
+    },
+    {
+      "institution": "Moray College",
+      "url": "https://www.moray.uhi.ac.uk/",
+      "area": "Engineering",
+      "studyType": "Higher National Diploma",
+      "startDate": "2010-10-01",
+      "endDate": "2011-10-01",
+      "score": "B",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+  ],
+  "publications": [
+    
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Student",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React"
+      ]
+    },
+    {
+      "name": "Producer",
+      "level": "Semi-Pro",
+      "keywords": [
+        "Reaper - DAW",
+        "Mix Engineer"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Learning"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Grappling",
+      "keywords": [
+        "Brazillian Jiu Jit Su",
+        "Wrestling"
+      ]
+    },
+    {
+      "name": "Striking",
+      "keywords": [
+        "Mauy Thai",
+        "Kick-Boxing"
+      ]
+    },
+    {
+      "name":"Ice Hockey",
+      "keywords":[]
+    }
+  ],
+  "references": [
+    
+  ],
+  "projects": [
+    {"title":"Itunes Search App","about":"App created with create-react-app and express. The App allows the user to search the epansive data available in the Apple Itunes API and add any of the items they search to a personal favourites page, they can add as many search items as they like and serach for as many items as they like, they can also delete any items from their list.","gitRepo":"https://github.com/Rambo9223/Itunes-Search","deploymentLink":"https://646dd6358442827cafbb68e1--resplendent-kelpie-03ccf5.netlify.app/","thumbnail":"../static/images/Itunes-App.png"},{
+      "title":"React-Hangman","about":"A basic hangman game made with create-react-app. The App uses a filtered dictionary object to select an array of words, of which one is selected as the words used in the game. You have ten guesses to guess the word before the stick figure meets his doom. Users can play the game for as long as they like, each day the filtered dictionary updates so there are new words to test yourself with daily.","gitRepo":"https://github.com/Rambo9223/Hangman","deploymentLink":"https://venerable-raindrop-892d46.netlify.app/","thumbnail":"../static/images/React-Hangman.png"
+    },{"title":"My Website","about":"A website made for my music page with HTML,Javascript and styled with CSS in the earlier part of my web-development learning. The website allows user to like favourite videos and images. In future I will be remaking this with React and implementing more features such as user logins and a backend database to contain user info/subscriptions to monthly calendars, notifications of gigs in their area and notifications when new content is due to be released.","gitRepo":"https://github.com/Rambo9223/MusicPage","deploymentLink":"","thumbnail":"../static/images/WebpageThumb.png"}
+  ]
+}
