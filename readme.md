@@ -98,13 +98,18 @@ Download the zipped file from the GitHub Repo and unzip in to your chosen direct
 Open the terminal or VSCode and navigate to the directory that contains the files using cd
 
 
-  Type in to the terminal
+    Type in to the terminal
     ```
-    npm install (Once dependecies install)
+    npm install
+    ```
 
-    npm run dev
+    The required packages should install
+
     ```
-then enter, the required packages should install and once compiled you will be able to use the app on your browser at http://localhost:3000/ and http://localhost:3000/test_routing
+    npm run dev
+    ``` 
+    
+    Once compiled you will be able to use the app on your browser at http://localhost:3000/ and http://localhost:3000/test_routing
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
