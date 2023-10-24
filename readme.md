@@ -99,16 +99,15 @@ Open the terminal or VSCode and navigate to the directory that contains the file
 
 
     Type in to the terminal
-    ```
+
     npm install
     ```
 
     The required packages should install
 
-    ```
     npm run dev
     ``` 
-    
+
     Once compiled you will be able to use the app on your browser at http://localhost:3000/ and http://localhost:3000/test_routing
 
 
