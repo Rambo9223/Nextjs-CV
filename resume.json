@@ -15,6 +15,9 @@
       "region": "Morayshire"
     },
     "profiles": [
+      {"network":"LinkedIn",
+      "username":"Scott Ramsay",
+      "url":"https://www.linkedin.com/in/scott-ramsay-287b43286/"},
       {
         "network": "Facebook",
         "username": "Scott Ramsay",
@@ -169,6 +172,7 @@
     
   ],
   "projects": [
+    {"title":"Medical Center App","about":"A full stack app using the MERN stack for managing the patient records and patient appointments for the Medical Center which suffers from data management issues. The new software aims to create a simple but dynamic solution to the above problems. With this App users such as patients/doctors and admin can create,manage and edit appointments to the clinic. Each type of user has their own specific permissions to maximise efficiancy.","gitRepo":"https://github.com/Rambo9223/Medical-Center-App-Local","deploymentLink":"https://victorious-beanie-fly.cyclic.app/","thumbnail":"../static/images/Medical-App.png"},
     {"title":"Itunes Search App","about":"App created with create-react-app and express. The App allows the user to search the epansive data available in the Apple Itunes API and add any of the items they search to a personal favourites page, they can add as many search items as they like and serach for as many items as they like, they can also delete any items from their list.","gitRepo":"https://github.com/Rambo9223/Itunes-Search","deploymentLink":"https://646dd6358442827cafbb68e1--resplendent-kelpie-03ccf5.netlify.app/","thumbnail":"../static/images/Itunes-App.png"},{
       "title":"React-Hangman","about":"A basic hangman game made with create-react-app. The App uses a filtered dictionary object to select an array of words, of which one is selected as the words used in the game. You have ten guesses to guess the word before the stick figure meets his doom. Users can play the game for as long as they like, each day the filtered dictionary updates so there are new words to test yourself with daily.","gitRepo":"https://github.com/Rambo9223/Hangman","deploymentLink":"https://venerable-raindrop-892d46.netlify.app/","thumbnail":"../static/images/React-Hangman.png"
     },{"title":"My Website","about":"A website made for my music page with HTML,Javascript and styled with CSS in the earlier part of my web-development learning. The website allows user to like favourite videos and images. In future I will be remaking this with React and implementing more features such as user logins and a backend database to contain user info/subscriptions to monthly calendars, notifications of gigs in their area and notifications when new content is due to be released.","gitRepo":"https://github.com/Rambo9223/MusicPage","deploymentLink":"","thumbnail":"../static/images/WebpageThumb.png"}

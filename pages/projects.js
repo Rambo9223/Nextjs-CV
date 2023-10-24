@@ -29,7 +29,7 @@ export default () => {
     <style jsx>
         {`.row{
             position:relative;
-            left:200px;
+            left:0px;
         }
         .card-body{
             border-style:solid;
